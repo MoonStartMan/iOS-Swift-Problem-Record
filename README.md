@@ -8,7 +8,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 7 | / |
 | | Cocopods | 1 | / |
-| 合计 | / | / | 8 |
+| | UIKit | 1 | / |
+| 合计 | / | / | 9 |
 
 ### Swift知识点
 
@@ -31,3 +32,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ## Cocopods
 
 [CocoaPods方式使用SnapKit](Cocopods/CocoaPods方式使用SnapKit.md)<br />
+
+## UIKit
+
+[UIColor转成纯色图片(UIImage)](UIKit/UIColor转成纯色图片(UIImage).md)<br />
