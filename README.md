@@ -9,8 +9,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 7 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 1 | / |
-| | 项目中的记录 | 1 | / |
-| 合计 | / | / | 10 |
+| | 项目中的记录 | 2 | / |
+| 合计 | / | / | 11 |
 
 ### Swift知识点
 
@@ -40,4 +40,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 ## 项目中的记录
 
+### 类型转换
+
 [swift-string,Int,Double相互转换](项目中的记录/类型转换/swift-string,Int,Double相互转换.md)<br />
+
+### 字符串操作
+
+[swift插入或者删除字符串](项目中的记录/字符换操作/swift插入或者删除字符串.md)<br/>
