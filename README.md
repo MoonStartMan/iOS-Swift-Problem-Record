@@ -9,7 +9,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 7 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 1 | / |
-| 合计 | / | / | 9 |
+| | 项目中的记录 | 1 | / |
+| 合计 | / | / | 10 |
 
 ### Swift知识点
 
@@ -36,3 +37,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ## UIKit
 
 [UIColor转成纯色图片(UIImage)](UIKit/UIColor转成纯色图片(UIImage).md)<br />
+
+## 项目中的记录
+
+[swift-string,Int,Double相互转换](项目中的记录/类型转换/swift-string,Int,Double相互转换.md)<br />
