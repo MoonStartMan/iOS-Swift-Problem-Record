@@ -38,6 +38,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 [UIColor转成纯色图片(UIImage)](UIKit/UIColor转成纯色图片(UIImage).md)<br />
 
+[Swift-UIButton添加点击事件](UIKit/Swift-UIButton添加点击事件.md)<br />
+
 ## 项目中的记录
 
 ### 类型转换
