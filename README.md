@@ -8,9 +8,9 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 7 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 1 | / |
-| | 项目中的记录 | 2 | / |
-| 合计 | / | / | 11 |
+| | UIKit | 2 | / |
+| | 项目中的记录 | 3 | / |
+| 合计 | / | / | 13 |
 
 ### Swift知识点
 
@@ -48,4 +48,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 ### 字符串操作
 
-[swift插入或者删除字符串](项目中的记录/字符换操作/swift插入或者删除字符串.md)<br/>
+[swift插入或者删除字符串](项目中的记录/字符换操作/swift插入或者删除字符串.md)<br />
+
+### 控制器传值
+
+[Swift视图控制器传值(正向和反向)](项目中的记录/控制器传值/Swift视图控制器传值(正向和反向).md)<br />
