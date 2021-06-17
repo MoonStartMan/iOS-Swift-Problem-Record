@@ -8,7 +8,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 7 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 2 | / |
+| | UIKit | 3 | / |
 | | 项目中的记录 | 3 | / |
 | 合计 | / | / | 13 |
 
@@ -36,9 +36,17 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 ## UIKit
 
+### UIColor
+
 [UIColor转成纯色图片(UIImage)](UIKit/UIColor/UIColor转成纯色图片(UIImage).md)<br />
 
+### UIButton
+
 [Swift-UIButton添加点击事件](UIKit/UIButton/Swift-UIButton添加点击事件.md)<br />
+
+### UITextField
+
+[Swift-UITextField(文本输入框)](UIKit/UITextField/Swift-UITextField(文本输入框).md)<br />
 
 ## 项目中的记录
 
