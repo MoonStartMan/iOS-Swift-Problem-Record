@@ -8,9 +8,9 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 7 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 4 | / |
+| | UIKit | 5 | / |
 | | 项目中的记录 | 6 | / |
-| 合计 | / | / | 16 |
+| 合计 | / | / | 17 |
 
 ### Swift知识点
 
@@ -39,6 +39,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### UIColor
 
 [UIColor转成纯色图片(UIImage)](UIKit/UIColor/UIColor转成纯色图片(UIImage).md)<br />
+[swift的hexColor以及创建一张纯色的图片](UIKit/UIColor/swift的hexColor以及创建一张纯色的图片.md)<br />
 
 ### UIButton
 
