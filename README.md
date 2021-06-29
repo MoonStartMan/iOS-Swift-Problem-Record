@@ -8,7 +8,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 7 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 3 | / |
+| | UIKit | 4 | / |
 | | 项目中的记录 | 5 | / |
 | 合计 | / | / | 15 |
 
@@ -47,6 +47,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### UITextField
 
 [Swift-UITextField(文本输入框)](UIKit/UITextField/Swift-UITextField(文本输入框).md)<br />
+
+### UICollectionView
+
+[UICollectionView-contentInsetAdjustmentBehavior](UIKit/UICollectionView/UICollectionView-contentInsetAdjustmentBehavior.md)<br />
 
 ## 项目中的记录
 
