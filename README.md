@@ -9,8 +9,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 7 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 3 | / |
-| | 项目中的记录 | 3 | / |
-| 合计 | / | / | 13 |
+| | 项目中的记录 | 5 | / |
+| 合计 | / | / | 15 |
 
 ### Swift知识点
 
@@ -61,3 +61,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### 控制器传值
 
 [Swift视图控制器传值(正向和反向)](项目中的记录/控制器传值/Swift视图控制器传值(正向和反向).md)<br />
+
+### Dispatch
+
+[DispatchQueue.main.async](项目中的记录/Dispatch/DispatchQueue.main.async.md)<br />
+
+### 内存管理
+
+[swift内存管理-weak与unowned](项目中的记录/内存管理/swift内存管理-weak与unowned.md)<br />
