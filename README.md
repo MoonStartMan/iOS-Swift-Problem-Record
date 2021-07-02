@@ -9,8 +9,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 8 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 5 | / |
-| | 项目中的记录 | 6 | / |
-| 合计 | / | / | 18 |
+| | 项目中的记录 | 7 | / |
+| 合计 | / | / | 19 |
 
 ### Swift知识点
 
@@ -80,3 +80,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### swift语法
 
 [swift基本语法if let和guard let](项目中的记录/swift语法/swift基本语法if let和guard let.md)<br />
+
+### 网络封装
+
+[swift通过Alamofire进行网络请求封装](项目中的记录/网络封装/swift通过Alamofire进行网络请求封装.md)<br />
