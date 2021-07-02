@@ -6,11 +6,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
-| | Swift知识点 | 8 | / |
+| | Swift知识点 | 9 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 5 | / |
 | | 项目中的记录 | 8 | / |
-| 合计 | / | / | 20 |
+| 合计 | / | / | 21 |
 
 ### Swift知识点
 
@@ -31,6 +31,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [swift5从0到1创建项目删除storyboard](Swift知识点/swift5从0到1创建项目删除storyboard/swift5从0到1创建项目删除storyboard.md)<br />
 
 [Swift中的as as! as的区别](Swift知识点/Swift中的as as! as的区别.md)<br />
+
+[swift关键字@escaping](Swift知识点/swift关键字@escaping.md)<br />
 
 ## Cocopods
 
