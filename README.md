@@ -10,7 +10,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Cocopods | 1 | / |
 | | UIKit | 5 | / |
 | | 项目中的记录 | 9 | / |
-| 合计 | / | / | 22 |
+| | Xocde报错| 1 | / |
+| 合计 | / | / | 23 |
 
 ### Swift知识点
 
@@ -93,4 +94,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 ### OC和Swift混编
 
-[设置桥接文件](项目中的记录/OC和Swift混编/设置桥接文件/OC和swift混编.md)
+[设置桥接文件](项目中的记录/OC和Swift混编/设置桥接文件/OC和swift混编.md)<br />
+
+## Xcode 报错
+
+### framework not found Pods_XXX
+
+[framework not found Pods_XXX](Xcode报错/framework not found Pods_XXX.md)<br />
