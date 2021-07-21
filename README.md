@@ -11,6 +11,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | UIKit | 5 | / |
 | | 项目中的记录 | 9 | / |
 | | Xocde报错| 1 | / |
+| | SwiftUI | 1 | / |
 | 合计 | / | / | 23 |
 
 ### Swift知识点
@@ -101,3 +102,9 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### framework not found Pods_XXX
 
 [framework not found Pods_XXX](Xcode报错/framework not found Pods_XXX.md)<br />
+
+## SwiftUI
+
+### SwiftUI-Identifiable
+
+[SwiftUI-Identifiable](SwiftUI/SwiftUI-Identifiable.md)<br />
