@@ -11,8 +11,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | UIKit | 5 | / |
 | | 项目中的记录 | 9 | / |
 | | Xocde报错| 1 | / |
-| | SwiftUI | 1 | / |
-| 合计 | / | / | 23 |
+| | SwiftUI | 2 | / |
+| 合计 | / | / | 27 |
 
 ### Swift知识点
 
@@ -108,3 +108,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### SwiftUI-Identifiable
 
 [SwiftUI-Identifiable](SwiftUI/SwiftUI-Identifiable.md)<br />
+
+### SwiftUI里的属性装饰器
+
+[SwiftUI里的属性装饰器](SwiftUI/SwiftUI里的属性装饰器.md)<br />
