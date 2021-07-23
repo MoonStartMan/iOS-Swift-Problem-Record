@@ -11,8 +11,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | UIKit | 5 | / |
 | | 项目中的记录 | 9 | / |
 | | Xocde报错| 1 | / |
-| | SwiftUI | 2 | / |
-| 合计 | / | / | 27 |
+| | SwiftUI | 3 | / |
+| 合计 | / | / | 28 |
 
 ### Swift知识点
 
@@ -112,3 +112,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### SwiftUI里的属性装饰器
 
 [SwiftUI里的属性装饰器](SwiftUI/SwiftUI里的属性装饰器.md)<br />
+
+### SwiftUI-让ScrollView在一个方向上滑动的方法
+
+[SwiftUI-让ScrollView在一个方向上滑动的方法](SwiftUI/SwiftUI-让ScrollView在一个方向上滑动的方法.md)<br />
