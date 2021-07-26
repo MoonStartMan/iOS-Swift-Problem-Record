@@ -11,8 +11,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | UIKit | 5 | / |
 | | 项目中的记录 | 9 | / |
 | | Xocde报错| 1 | / |
-| | SwiftUI | 3 | / |
-| 合计 | / | / | 28 |
+| | SwiftUI | 4 | / |
+| 合计 | / | / | 29 |
 
 ### Swift知识点
 
@@ -116,3 +116,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### SwiftUI-让ScrollView在一个方向上滑动的方法
 
 [SwiftUI-让ScrollView在一个方向上滑动的方法](SwiftUI/SwiftUI-让ScrollView在一个方向上滑动的方法.md)<br />
+
+### SwiftUI-设置富文本
+
+[SwiftUI-设置富文本](SwiftUI/SwiftUI-设置富文本.md)<br />
