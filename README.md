@@ -11,8 +11,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | UIKit | 5 | / |
 | | 项目中的记录 | 9 | / |
 | | Xocde报错| 1 | / |
-| | SwiftUI | 6 | / |
-| 合计 | / | / | 31 |
+| | SwiftUI | 7 | / |
+| 合计 | / | / | 32 |
 
 ### Swift知识点
 
@@ -128,3 +128,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ###  SwiftUI-设置圆角
 
 [SwiftUI-设置圆角](SwiftUI/SwiftUI-设置圆角/SwiftUI-设置圆角.md)
+
+### SwiftUI-Alert
+
+[SwiftUI-Alert](SwiftUI/SwiftUI-Alert/SwiftUI-Alert.md)
