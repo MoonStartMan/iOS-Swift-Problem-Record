@@ -11,8 +11,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | UIKit | 5 | / |
 | | 项目中的记录 | 9 | / |
 | | Xocde报错| 1 | / |
-| | SwiftUI | 8 | / |
-| 合计 | / | / | 33 |
+| | SwiftUI | 9 | / |
+| 合计 | / | / | 34 |
 
 ### Swift知识点
 
@@ -136,3 +136,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### SwiftUI-BindingString解决办法
 
 [SwiftUI-BindingString解决办法](SwiftUI/SwiftUI-BindingString解决办法.md)
+
+### SwiftUI-设置Text上下左右间隔
+
+[SwiftUI-设置Text上下左右间隔](SwiftUI/SwiftUI-设置Text上下左右间隔.md)
