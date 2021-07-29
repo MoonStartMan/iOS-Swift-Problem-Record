@@ -21,10 +21,9 @@
 
 ``` swift
 
-.background(
-	Color(red: 0 / 255.0, green: 0 / 255.0, blue: 0 / 255.0, opacity: 1.0)
-		.scaledToFill()
-		.edgesIgnoringSafeArea(.all)
-)
+ZStack {
+  Color(red: 0 / 255.0, green: 0 / 255.0, blue: 0 / 255.0)
+  	.edgesIgnoringSafeArea(.all)
+}
 
 ```
