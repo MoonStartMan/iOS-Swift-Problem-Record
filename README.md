@@ -11,8 +11,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | UIKit | 5 | / |
 | | 项目中的记录 | 9 | / |
 | | Xocde报错| 1 | / |
-| | SwiftUI | 9 | / |
-| 合计 | / | / | 34 |
+| | SwiftUI | 10 | / |
+| 合计 | / | / | 35 |
 
 ### Swift知识点
 
@@ -140,3 +140,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### SwiftUI-设置Text上下左右间隔
 
 [SwiftUI-设置Text上下左右间隔](SwiftUI/SwiftUI-设置Text上下左右间隔.md)
+
+### SwiftUI-自定义圆角位置和度数
+
+[SwiftUI-自定义圆角位置和度数](SwiftUI/SwiftUI-自定义圆角位置和度数.md)
