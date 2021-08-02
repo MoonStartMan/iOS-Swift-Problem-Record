@@ -11,8 +11,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | UIKit | 5 | / |
 | | 项目中的记录 | 9 | / |
 | | Xocde报错| 1 | / |
-| | SwiftUI | 10 | / |
-| 合计 | / | / | 35 |
+| | SwiftUI | 11 | / |
+| 合计 | / | / | 36 |
 
 ### Swift知识点
 
@@ -144,3 +144,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### SwiftUI-自定义圆角位置和度数
 
 [SwiftUI-自定义圆角位置和度数](SwiftUI/SwiftUI-自定义圆角位置和度数.md)
+
+### SwiftUI-账号输入框和密码输入框
+
+[SwiftUI-账号输入框和密码输入框](SwiftUI/SwiftUI-账号输入框和密码输入框.md)
