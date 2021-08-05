@@ -11,8 +11,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | UIKit | 5 | / |
 | | 项目中的记录 | 9 | / |
 | | Xocde报错| 1 | / |
-| | SwiftUI | 12 | / |
-| 合计 | / | / | 37 |
+| | SwiftUI | 13 | / |
+| 合计 | / | / | 38 |
 
 ### Swift知识点
 
@@ -152,3 +152,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### SwiftUI-取消Button点击高亮效果
 
 [SwiftUI-取消Button点击高亮效果](SwiftUI/SwiftUI-取消Button点击高亮效果.md)
+
+### SwiftUI-onAppear,onDisapper
+
+[SwiftUI-onAppear,onDisapper](SwiftUI/SwiftUI-onAppear,onDisapper.md)
