@@ -11,8 +11,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | UIKit | 5 | / |
 | | 项目中的记录 | 9 | / |
 | | Xocde报错| 1 | / |
-| | SwiftUI | 13 | / |
-| 合计 | / | / | 38 |
+| | SwiftUI | 14 | / |
+| 合计 | / | / | 39 |
 
 ### Swift知识点
 
@@ -156,3 +156,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### SwiftUI-onAppear,onDisapper
 
 [SwiftUI-onAppear,onDisapper](SwiftUI/SwiftUI-onAppear,onDisapper.md)
+
+### SwiftUI-设置图片颜色
+
+[SwiftUI-设置图片颜色](SwiftUI/SwiftUI-设置图片颜色.md)
