@@ -11,8 +11,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | UIKit | 5 | / |
 | | 项目中的记录 | 9 | / |
 | | Xocde报错| 1 | / |
-| | SwiftUI | 15 | / |
-| 合计 | / | / | 40 |
+| | SwiftUI | 16 | / |
+| 合计 | / | / | 41 |
 
 ### Swift知识点
 
@@ -164,3 +164,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### SwiftUI-去掉List下划线
 
 [SwiftUI-去掉List下划线](SwiftUI/SwiftUI-去掉List下划线.md)
+
+### 在SwiftUI中使用UIView以及UIViewController
+
+[在SwiftUI中使用UIView以及UIViewController](SwiftUI/在SwiftUI中使用UIView以及UIViewController.md)
