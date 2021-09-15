@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 9 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 6 | / |
+| | UIKit | 7 | / |
 | | 项目中的记录 | 9 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 41 |
+| 合计 | / | / | 42 |
 
 ### Swift知识点
 
@@ -62,6 +62,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### 手势
 
 [swift-点击、移动、抬起](UIKit/手势/swift-点击、移动、抬起.md)
+
+### layer
+
+[swift-画部分圆角](UIKit/layer/Swift画部分圆角.md)
 
 ## 项目中的记录
 
