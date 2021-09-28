@@ -9,7 +9,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 9 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 7 | / |
-| | 项目中的记录 | 9 | / |
+| | 项目中的记录 | 10 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
 | 合计 | / | / | 42 |
@@ -96,6 +96,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### 网络封装
 
 [swift通过Alamofire进行网络请求封装](项目中的记录/网络封装/swift通过Alamofire进行网络请求封装.md)<br />
+
+### iOS解决点击穿透问题
+
+[iOS解决点击穿透问题](项目中的记录/iOS解决点击穿透问题/iOS解决点击穿透问题.md)
 
 ### 单例
 
