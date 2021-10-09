@@ -8,7 +8,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 9 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 7 | / |
+| | UIKit | 8 | / |
 | | 项目中的记录 | 10 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
@@ -50,6 +50,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### UIButton
 
 [Swift-UIButton添加点击事件](UIKit/UIButton/Swift-UIButton添加点击事件.md)<br />
+[swift-UIButton设置按钮中图片与文字的左右位置](UIKit/UIButton/swift-UIButton设置按钮中图片与文字的左右位置.md)<br />
 
 ### UITextField
 
