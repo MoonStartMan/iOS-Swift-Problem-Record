@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 9 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 8 | / |
+| | UIKit | 9 | / |
 | | 项目中的记录 | 11 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 43 |
+| 合计 | / | / | 44 |
 
 ### Swift知识点
 
@@ -67,6 +67,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### layer
 
 [swift-画部分圆角](UIKit/layer/Swift画部分圆角.md)
+
+### Swift-背景图片模糊效果
+
+[Swift-背景图片模糊效果](UIKit/Swift-背景图片模糊效果.md)
 
 ## 项目中的记录
 
