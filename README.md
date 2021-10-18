@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 9 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 8 | / |
-| | 项目中的记录 | 10 | / |
+| | 项目中的记录 | 11 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 42 |
+| 合计 | / | / | 43 |
 
 ### Swift知识点
 
@@ -109,6 +109,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### OC和Swift混编
 
 [设置桥接文件](项目中的记录/OC和Swift混编/设置桥接文件/OC和swift混编.md)<br />
+
+### Swift-从应用中跳转到AppStore页面并打分
+
+[Swift-从应用中跳转到AppStore页面并打分](项目中的记录/Swift-从应用中跳转到AppStore页面并打分.md)<br />
 
 ## Xcode 报错
 
