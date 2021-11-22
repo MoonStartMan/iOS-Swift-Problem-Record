@@ -6,13 +6,13 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
-| | Swift知识点 | 9 | / |
+| | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 9 | / |
 | | 项目中的记录 | 11 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 44 |
+| 合计 | / | / | 45 |
 
 ### Swift知识点
 
@@ -35,6 +35,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [Swift中的as as! as的区别](Swift知识点/Swift中的as as! as的区别.md)<br />
 
 [swift关键字@escaping](Swift知识点/swift关键字@escaping.md)<br />
+
+[Swift-stride函数](Swift知识点/Swift-stride函数.md)<br />
 
 ## Cocopods
 
