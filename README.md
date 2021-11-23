@@ -9,7 +9,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 9 | / |
-| | 项目中的记录 | 11 | / |
+| | 项目中的记录 | 12 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
 | 合计 | / | / | 45 |
@@ -119,6 +119,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### Swift-从应用中跳转到AppStore页面并打分
 
 [Swift-从应用中跳转到AppStore页面并打分](项目中的记录/Swift-从应用中跳转到AppStore页面并打分.md)<br />
+
+### swift-调起邮件发送
+
+[swift-调起邮件发送](项目中的记录/swift-调起邮件发送.md)<br />
 
 ## Xcode 报错
 
