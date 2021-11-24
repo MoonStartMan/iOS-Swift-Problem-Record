@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 9 | / |
+| | UIKit | 10 | / |
 | | 项目中的记录 | 13 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 50 |
+| 合计 | / | / | 51 |
 
 ### Swift知识点
 
@@ -73,6 +73,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### Swift-背景图片模糊效果
 
 [Swift-背景图片模糊效果](UIKit/Swift-背景图片模糊效果.md)
+
+### UILabel
+
+[UILabel计算宽高、添加删除线](UIKit/UILabel/UILabel计算宽高、添加删除线.md)
 
 ## 项目中的记录
 
