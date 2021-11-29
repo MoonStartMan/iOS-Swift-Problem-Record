@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 12 | / |
-| | 项目中的记录 | 13 | / |
+| | 项目中的记录 | 14 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 53 |
+| 合计 | / | / | 54 |
 
 ### Swift知识点
 
@@ -134,6 +134,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### 通过URL地址打开web页面
 
 [通过URL地址打开web页面](项目中的记录/通过URL地址打开web页面.md)<br />
+
+### swift获取app、ios版本号及设备信息
+
+[swift获取app、ios版本号及设备信息](项目中的记录/swift获取app、ios版本号及设备信息.md)<br />
 
 ## Xcode 报错
 
