@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 13 | / |
-| | 项目中的记录 | 14 | / |
+| | 项目中的记录 | 15 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 55 |
+| 合计 | / | / | 56 |
 
 ### Swift知识点
 
@@ -142,6 +142,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### swift获取app、ios版本号及设备信息
 
 [swift获取app、ios版本号及设备信息](项目中的记录/swift获取app、ios版本号及设备信息.md)<br />
+
+### 字符串
+
+[swift-将字符串拆分成数组(把一个字符串分割成字符串数组)](字符串/swift-将字符串拆分成数组(把一个字符串分割成字符串数组).md)<br />
 
 ## Xcode 报错
 
