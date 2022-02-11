@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 13 | / |
-| | 项目中的记录 | 15 | / |
+| | 项目中的记录 | 16 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 56 |
+| 合计 | / | / | 57 |
 
 ### Swift知识点
 
@@ -94,6 +94,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### 字符串操作
 
 [swift插入或者删除字符串](项目中的记录/字符换操作/swift插入或者删除字符串.md)<br />
+[Swift字符串截取](项目中的记录/字符串操作/Swift字符串截取.md)<br />
 
 ### 控制器传值
 
