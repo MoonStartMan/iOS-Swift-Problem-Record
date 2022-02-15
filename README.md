@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 13 | / |
-| | 项目中的记录 | 18 | / |
+| | 项目中的记录 | 19 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 58 |
+| 合计 | / | / | 59 |
 
 ### Swift知识点
 
@@ -90,6 +90,9 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### 类型转换
 
 [swift-string,Int,Double相互转换](项目中的记录/类型转换/swift-string,Int,Double相互转换.md)<br />
+
+### 键盘操作
+[swift关闭键盘的两种方式](项目中的记录/键盘操作/swift关闭键盘的两种方式.md)<br />
 
 ### 字符串操作
 
