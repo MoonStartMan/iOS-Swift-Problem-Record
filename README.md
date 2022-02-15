@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 13 | / |
-| | 项目中的记录 | 19 | / |
+| | 项目中的记录 | 20 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 59 |
+| 合计 | / | / | 60 |
 
 ### Swift知识点
 
@@ -157,6 +157,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### 加载gif
 
 [swift使用KingfisherSDWebImage加载本地GIF](项目中的记录/加载gif/swift使用KingfisherSDWebImage加载本地GIF.md)
+
+### swift开发之振动反馈
+
+[swift开发之振动反馈](项目中的记录/swift开发之振动反馈.md)
 
 ## Xcode 报错
 
