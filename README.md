@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 13 | / |
-| | 项目中的记录 | 20 | / |
+| | 项目中的记录 | 21 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 60 |
+| 合计 | / | / | 61 |
 
 ### Swift知识点
 
@@ -140,6 +140,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### swift-调起邮件发送
 
 [swift-调起邮件发送](项目中的记录/swift-调起邮件发送.md)<br />
+
+### Swift闪光灯的使用
+
+[Swift闪光灯的使用](项目中的记录/Swift闪光灯的使用.md)<br />
 
 ### 通过URL地址打开web页面
 
