@@ -9,7 +9,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 14 | / |
-| | 项目中的记录 | 21 | / |
+| | 项目中的记录 | 22 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
 | 合计 | / | / | 62 |
@@ -105,6 +105,9 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 ### 坐标转换
 [swift-convert方法](项目中的记录/坐标转换/swift-convert方法.md)<br />
+
+### swift-判断客户端是否安装QQ并发起会话
+[swift-判断客户端是否安装QQ并发起会话](项目中的记录/swift-判断客户端是否安装QQ并发起会话.md)<br />
 
 ### Dispatch
 
