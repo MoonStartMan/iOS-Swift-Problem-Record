@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 14 | / |
-| | 项目中的记录 | 22 | / |
+| | 项目中的记录 | 23 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 62 |
+| 合计 | / | / | 63 |
 
 ### Swift知识点
 
@@ -94,6 +94,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 ### 键盘操作
 [swift关闭键盘的两种方式](项目中的记录/键盘操作/swift关闭键盘的两种方式.md)<br />
+
+### swift-键盘相关操作
+
+[swift-键盘相关操作](项目中的记录/键盘操作/swift-键盘相关操作.md)<br />
 
 ### 字符串操作
 
