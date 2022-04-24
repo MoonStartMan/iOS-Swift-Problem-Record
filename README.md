@@ -6,13 +6,13 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
-| | Swift知识点 | 10 | / |
+| | Swift知识点 | 11 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 18 | / |
-| | 项目中的记录 | 25 | / |
+| | 项目中的记录 | 27 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 69 |
+| 合计 | / | / | 74 |
 
 ### Swift知识点
 
