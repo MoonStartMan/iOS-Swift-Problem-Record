@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 16 | / |
+| | UIKit | 18 | / |
 | | 项目中的记录 | 24 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 66 |
+| 合计 | / | / | 68 |
 
 ### Swift知识点
 
@@ -89,7 +89,12 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [UITableViewCell取消点击时背景颜色](UIKit/UITableView/UITableViewCell取消点击时背景颜色.md)<br />
 
 ### UISlider
+
 [swift-UISlider点击改变value的值](UIKit/UISlider/swift-UISlider点击改变value的值.md)<br />
+
+### 键盘
+
+[swift-UITextField键盘类型](UIKit/键盘/swift-UITextField键盘类型.md)<br />
 
 ## 项目中的记录
 
