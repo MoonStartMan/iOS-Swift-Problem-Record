@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 10 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 18 | / |
-| | 项目中的记录 | 24 | / |
+| | 项目中的记录 | 25 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 68 |
+| 合计 | / | / | 69 |
 
 ### Swift知识点
 
@@ -122,6 +122,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 ### swift-判断客户端是否安装QQ并发起会话
 [swift-判断客户端是否安装QQ并发起会话](项目中的记录/swift-判断客户端是否安装QQ并发起会话.md)<br />
+
+### Swift-NSObject取消执行延时方法
+
+[Swift-NSObject取消执行延时方法](项目中的记录/Swift-NSObject取消执行延时方法.md)<br />
 
 ### Dispatch
 
