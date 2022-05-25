@@ -9,7 +9,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 11 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 18 | / |
-| | 项目中的记录 | 27 | / |
+| | 项目中的记录 | 28 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
 | 合计 | / | / | 74 |
@@ -191,6 +191,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### 截取屏幕
 
 [swift-截取当前屏幕的图片](项目中的记录/swift-截取当前屏幕的图片.md)<br />
+
+### 进制转换
+
+[swift进制转换](项目中的记录/swift进制转换.md)<br />
 
 ## Xcode 报错
 
