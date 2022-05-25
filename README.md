@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 11 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 18 | / |
-| | 项目中的记录 | 28 | / |
+| | 项目中的记录 | 29 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 74 |
+| 合计 | / | / | 75 |
 
 ### Swift知识点
 
@@ -49,6 +49,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [UIColor转成纯色图片(UIImage)](UIKit/UIColor/UIColor转成纯色图片(UIImage).md)<br />
 [swift的hexColor以及创建一张纯色的图片](UIKit/UIColor/swift的hexColor以及创建一张纯色的图片.md)<br />
 [根据UIColor对象获取对应的RGBA值](UIKit/UIColor/根据UIColor对象获取对应的RGBA值.md)<br />
+
+[swift从UIColor中读取RGBA数据](UIKit/UIColor/swift从UIColor中读取RGBA数据.md)<br />
 
 ### UIButton
 
