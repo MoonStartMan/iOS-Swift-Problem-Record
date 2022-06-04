@@ -8,7 +8,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 11 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 18 | / |
+| | UIKit | 19 | / |
 | | 项目中的记录 | 29 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
@@ -85,6 +85,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### UILabel
 
 [UILabel计算宽高、添加删除线](UIKit/UILabel/UILabel计算宽高、添加删除线.md)<br />
+
+[swift给文字添加描边效果](UIKit/UILabel/swift给文字添加描边效果)<br />
 
 ### UITableView
 
