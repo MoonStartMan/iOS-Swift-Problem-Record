@@ -90,6 +90,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 [swift-UILabel设置行高和字间距](UIKit/UILabel/swift-UILabel设置行高和字间距.md)<br />
 
+[swift-UILabel富文本设置](UIKit/UILabel/swift-UILabel富文本设置.md)<br />
+
 ### UITableView
 
 [UITableViewCell取消点击时背景颜色](UIKit/UITableView/UITableViewCell取消点击时背景颜色.md)<br />
