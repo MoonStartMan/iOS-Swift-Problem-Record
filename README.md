@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 11 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 20 | / |
+| | UIKit | 21 | / |
 | | 项目中的记录 | 29 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 76 |
+| 合计 | / | / | 77 |
 
 ### Swift知识点
 
@@ -99,6 +99,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### UISlider
 
 [swift-UISlider点击改变value的值](UIKit/UISlider/swift-UISlider点击改变value的值.md)<br />
+
+### UIScrollView
+
+[iOS-UIScrollView解决不能滑动的问题](UIKit/UIScrollView/iOS-UIScrollView解决不能滑动的问题.md)<br />
 
 ### 键盘
 
