@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 11 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 21 | / |
+| | UIKit | 22 | / |
 | | 项目中的记录 | 32 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 80 |
+| 合计 | / | / | 81 |
 
 ### Swift知识点
 
@@ -65,6 +65,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### UICollectionView
 
 [UICollectionView-contentInsetAdjustmentBehavior](UIKit/UICollectionView/UICollectionView-contentInsetAdjustmentBehavior.md)<br />
+
+[swift-UICollectionView添加Header和Footer](UIKit/UICollectionView/swift-UICollectionView添加Header和Footer.md)<br />
 
 ### 手势
 
