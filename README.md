@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 11 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 21 | / |
-| | 项目中的记录 | 31 | / |
+| | 项目中的记录 | 32 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 79 |
+| 合计 | / | / | 80 |
 
 ### Swift知识点
 
@@ -215,6 +215,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### swift分割字符串
 
 [swift分割字符串](项目中的记录/swift分割字符串.md)<br />
+
+### swift-UIScrollView整页滚动获取当前索引
+
+[swift-UIScrollView整页滚动获取当前索引](项目中的记录/swift-UIScrollView整页滚动获取当前索引.md)<br />
 
 ## Xcode 报错
 
