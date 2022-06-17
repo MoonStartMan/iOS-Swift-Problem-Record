@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 11 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 21 | / |
-| | 项目中的记录 | 30 | / |
+| | 项目中的记录 | 31 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 78 |
+| 合计 | / | / | 79 |
 
 ### Swift知识点
 
@@ -211,6 +211,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### swift-BlurView设置高斯模糊(毛玻璃)
 
 [swift-BlurView设置高斯模糊(毛玻璃)](项目中的记录/swift-BlurView设置高斯模糊(毛玻璃).md)<br />
+
+### swift分割字符串
+
+[swift分割字符串](项目中的记录/swift分割字符串.md)<br />
 
 ## Xcode 报错
 
