@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 11 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 21 | / |
-| | 项目中的记录 | 29 | / |
+| | 项目中的记录 | 30 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 77 |
+| 合计 | / | / | 78 |
 
 ### Swift知识点
 
@@ -207,6 +207,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### 进制转换
 
 [swift进制转换](项目中的记录/swift进制转换.md)<br />
+
+### swift-BlurView设置高斯模糊(毛玻璃)
+
+[swift-BlurView设置高斯模糊(毛玻璃)](项目中的记录/swift-BlurView设置高斯模糊(毛玻璃).md)<br />
 
 ## Xcode 报错
 
