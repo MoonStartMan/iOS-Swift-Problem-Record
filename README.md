@@ -6,7 +6,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
-| | Swift知识点 | 11 | / |
+| | Swift知识点 | 12 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 22 | / |
 | | 项目中的记录 | 32 | / |
@@ -37,6 +37,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [swift关键字@escaping](Swift知识点/swift关键字@escaping.md)<br />
 
 [Swift-stride函数](Swift知识点/Swift-stride函数.md)<br />
+
+[墓碑机制与iOS应用程序的生命周期](Swift知识点/墓碑机制与iOS应用程序的生命周期.md)<br />
 
 ## Cocopods
 
