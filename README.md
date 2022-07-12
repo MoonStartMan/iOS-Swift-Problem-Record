@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 12 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 24 | / |
-| | 项目中的记录 | 32 | / |
+| | 项目中的记录 | 33 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 83 |
+| 合计 | / | / | 84 |
 
 ### Swift知识点
 
@@ -227,6 +227,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### swift-UIScrollView整页滚动获取当前索引
 
 [swift-UIScrollView整页滚动获取当前索引](项目中的记录/swift-UIScrollView整页滚动获取当前索引.md)<br />
+
+### swift-获取当年的第几周
+
+[swift-获取当年的第几周](项目中的记录/swift-获取当年的第几周.md)<br />
 
 ## Xcode 报错
 
