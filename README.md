@@ -8,7 +8,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 12 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 22 | / |
+| | UIKit | 23 | / |
 | | 项目中的记录 | 32 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
@@ -95,6 +95,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [swift-UILabel设置行高和字间距](UIKit/UILabel/swift-UILabel设置行高和字间距.md)<br />
 
 [swift-UILabel富文本设置](UIKit/UILabel/swift-UILabel富文本设置.md)<br />
+
+[计算UILabel的行数](UIKit/UILabel/计算UILabel的行数.md)<br />
 
 ### UITableView
 
