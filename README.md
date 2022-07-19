@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 13 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 24 | / |
+| | UIKit | 25 | / |
 | | 项目中的记录 | 33 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 85 |
+| 合计 | / | / | 86 |
 
 ### Swift知识点
 
@@ -117,6 +117,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### 键盘
 
 [swift-UITextField键盘类型](UIKit/键盘/swift-UITextField键盘类型.md)<br />
+
+### UINavigationController
+
+[swift-ViewController返回上一级VC或指定VC方法](UIKit/UINavigationController/swift-ViewController返回上一级VC或指定VC方法.md)
 
 ## 项目中的记录
 
