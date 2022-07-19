@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 13 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 25 | / |
+| | UIKit | 26 | / |
 | | 项目中的记录 | 33 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 86 |
+| 合计 | / | / | 87 |
 
 ### Swift知识点
 
@@ -121,6 +121,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### UINavigationController
 
 [swift-ViewController返回上一级VC或指定VC方法](UIKit/UINavigationController/swift-ViewController返回上一级VC或指定VC方法.md)
+
+[UIModalPresentationStyle](UIKit/UINavigationController/UIModalPresentationStyle.md)
 
 ## 项目中的记录
 

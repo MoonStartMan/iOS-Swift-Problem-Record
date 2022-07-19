@@ -1,0 +1,43 @@
+# UIModalPresentationStyle
+
+iOS显示ViewController的方式有两种: push 和 Modal。当以 Modal 方式显示ViewController的时候，UIModalPresentationStyle属性决定了模态显示样式，定义如下：
+
+``` objective-C
+
+typedef NS_ENUM(NSInteger, UIModalPresentationStyle) {
+  UIModalPresentationFullScreen = 0,
+  UIModalPresentationPageSheet,
+  UIModalPresentationFormSheet,
+  UIModalPresentationCurrentContext,
+  UIModalPresentationCustom,
+  UIModalPresentationOverFullScreen,
+  UIModalPresentationOverCurrentContext,
+  UIModalPresentationPopover,
+  UIModalPresentationNone = -1,
+}
+
+```
+
+## UIModalPresentationFullScreen
+
+覆盖全屏，并以RootViewController为context进行显示。当显示完成后，会将属于PresentingViewController的所有视图暂时移出视图栈。
+
+## UIModalPresentationOverFullScreen
+
+同上，但与UIModalPresentationFullScreen不同的是，当显示完成后，不会将属于PresentingViewController的视图移出视图栈。因此，如果该PresentedViewController的内容视图拥有透明度的话，可以透视到位于PresentingViewController的视图内容。比较以下两张视图层次结构图可以发现，当以Full Screen方式显示ViewController时，CurrentContextViewController及其所有子视图被移出了视图栈，但当以Over Full Screen方式显示ViewController时，CurrentContextViewController及其所有子视图并未被移出视图栈。
+
+## UIModalPresentationCurrentContext
+
+UIKit将自当前视图节点向上搜索视图控制器层次结构，并以第一个definesPresentationContext属性为true的ViewController为Context进行显示。当显示完成后，会将属于PresentingViewController的所有视图暂时移出视图栈。
+
+## UIModalPresentationOverCurrentContext
+
+同上，但与UIModalPresentationCurrentContext不同的是，当显示完成后，不会将属于PresentingViewController的视图移出视图栈。
+
+## UIModalPresentationPageSheet
+
+如果UIWindow的horizontalSizeClass为compact时，显示效果同UIModalPresentationFullScreen。
+
+## UIModalPresentationFormSheet
+
+如果UIWindow的horizontalSizeClass为compact时，显示效果同UIModalPresentationFullScreen。
