@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 13 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 28 | / |
-| | 项目中的记录 | 33 | / |
+| | 项目中的记录 | 34 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 89 |
+| 合计 | / | / | 90 |
 
 ### Swift知识点
 
@@ -244,6 +244,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### swift-获取当年的第几周
 
 [swift-获取当年的第几周](项目中的记录/swift-获取当年的第几周.md)<br />
+
+### iOS通过总秒数算出具体的天-分-时-秒
+
+[iOS通过总秒数算出具体的天-分-时-秒](项目中的记录/iOS通过总秒数算出具体的天-分-时-秒.md)<br />
 
 ## Xcode 报错
 
