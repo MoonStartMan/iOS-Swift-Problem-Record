@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 13 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 30 | / |
-| | 项目中的记录 | 35 | / |
+| | 项目中的记录 | 36 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 93 |
+| 合计 | / | / | 97 |
 
 ### Swift知识点
 
@@ -258,6 +258,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### iOS的UI事件传递&响应
 
 [iOS的UI事件传递&响应](项目中的记录/iOS的UI事件传递&响应.md)<br />
+
+### swift-Double向上取整和向下取整、Double转IntString
+
+[swift-Double向上取整和向下取整、Double转IntString](项目中的记录/swift-Double向上取整和向下取整、Double转IntString.md)<br />
 
 ## Xcode 报错
 
