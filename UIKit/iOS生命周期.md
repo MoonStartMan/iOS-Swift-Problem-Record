@@ -2,7 +2,7 @@
 
 ## AppDelegate(应用程序生命周期)
 
-``` swift
+``` objective-C
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
@@ -38,7 +38,7 @@
 
 ## UIViewController(控制器生命周期)
 
-``` swift
+``` objective-C
 
 - (instancetype)init{
     if (self = [super init]) {
@@ -89,6 +89,42 @@
 - (void)didReceiveMemoryWarning{
     [super didReceiveMemoryWarning];
     NSLog(@"12.内存警告");
+}
+
+```
+
+## UIView(view生命周期)
+
+``` objective-C
+
+- (void)didAddSubview:(UIView *)subview{
+    [super didAddSubview:subview];
+    NSLog(@"1.当视图添加子视图时调用");
+}
+
+- (void)willRemoveSubview:(UIView *)subview{
+    [super willRemoveSubview:subview];
+    NSLog(@"2.当子视图从本视图移除时调用");
+}
+
+- (void)willMoveToSuperview:(nullable UIView *)newSuperview{
+    [super willMoveToSuperview:newSuperview];
+    NSLog(@"3.当视图即将加入父视图时 / 当视图即将从父视图移除时调用");
+}
+
+- (void)didMoveToSuperview{
+    [super didMoveToSuperview];
+    NSLog(@"4.当视图加入父视图时 / 当视图从父视图移除时调用");
+}
+
+- (void)willMoveToWindow:(nullable UIWindow *)newWindow{
+    [super willMoveToWindow:newWindow];
+    NSLog(@"5.当视图即将加入window视图时 / 当视图即将从window视图移除时调用");
+}
+
+- (void)didMoveToWindow{
+    [super didMoveToWindow];
+    NSLog(@"6.当视图加入window视图时 / 当视图从window视图移除时调用");
 }
 
 ```
