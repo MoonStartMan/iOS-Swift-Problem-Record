@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 13 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 28 | / |
+| | UIKit | 29 | / |
 | | 项目中的记录 | 35 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 91 |
+| 合计 | / | / | 92 |
 
 ### Swift知识点
 
@@ -47,6 +47,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [CocoaPods方式使用SnapKit](Cocopods/CocoaPods方式使用SnapKit.md)<br />
 
 ## UIKit
+
+## iOS生命周期
+
+[iOS生命周期](UIKit/iOS生命周期.md)<br />
 
 ### UIColor
 
