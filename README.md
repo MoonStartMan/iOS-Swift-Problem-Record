@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 14 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 38 | / |
+| | UIKit | 39 | / |
 | | 项目中的记录 | 36 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 106 |
+| 合计 | / | / | 107 |
 
 ### Swift知识点
 
@@ -148,6 +148,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [swift-wkWebView加载H5](UIKit/webView/swift-wkWebView加载H5.md)<br />
 
 [swift从UrlString中获取相关指定数值](UIKit/webView/swift从UrlString中获取相关指定数值.md)<br />
+
+[WKWebView报错解决](UIKit/webView/WKWebView报错解决.md)<br />
 
 ### CATextLayer
 
