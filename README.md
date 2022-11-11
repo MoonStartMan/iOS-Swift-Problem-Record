@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 14 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 39 | / |
+| | UIKit | 40 | / |
 | | 项目中的记录 | 36 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 107 |
+| 合计 | / | / | 108 |
 
 ### Swift知识点
 
@@ -156,6 +156,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [CATextLayer文本清晰可见](UIKit/CATextLayer/CATextLayer文本清晰可见.md)<br />
 
 [swift-设置文字过渡渐变色](UIKit/CATextLayer/swift-设置文字过渡渐变色.md)<br />
+
+### AVFAudio
+
+[swift-播放本地音乐](UIKit/AVFAudio/swift-播放本地音乐.md)<br />
 
 ## 项目中的记录
 
