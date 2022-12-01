@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 14 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 40 | / |
+| | UIKit | 41 | / |
 | | 项目中的记录 | 36 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 108 |
+| 合计 | / | / | 109 |
 
 ### Swift知识点
 
@@ -124,6 +124,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### UIScrollView
 
 [iOS-UIScrollView解决不能滑动的问题](UIKit/UIScrollView/iOS-UIScrollView解决不能滑动的问题.md)<br />
+[视频滑动停止后自动播放的几个方法](UIKit/UIScrollView/视频滑动停止后自动播放的几个方法.md)<br />
 
 ### 键盘
 
