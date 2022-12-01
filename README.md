@@ -158,9 +158,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 [swift-设置文字过渡渐变色](UIKit/CATextLayer/swift-设置文字过渡渐变色.md)<br />
 
-### AVFAudio
+### AVFoundation
 
-[swift-播放本地音乐](UIKit/AVFAudio/swift-播放本地音乐.md)<br />
+[swift-播放本地音乐](UIKit/AVFoundation/swift-播放本地音乐.md)<br />
+[VIdeo-Gravity视频播放时的拉伸方式](UIKit/AVFoundation/VIdeo-Gravity视频播放时的拉伸方式.md)<br />
 
 ## 项目中的记录
 
