@@ -6,13 +6,13 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
-| | Swift知识点 | 14 | / |
+| | Swift知识点 | 15 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 41 | / |
 | | 项目中的记录 | 36 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 109 |
+| 合计 | / | / | 110 |
 
 ### Swift知识点
 
@@ -43,6 +43,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [swift-NSCalendar](Swift知识点/swift-NSCalendar.md)<br />
 
 [iOS-GCD](Swift知识点/iOS-GCD.md)<br />
+
+[swift数组遍历forEach、enumerated、iterator、indices](Swift知识点/swift数组遍历forEach、enumerated、iterator、indices.md)<br />
 
 ## Cocopods
 
