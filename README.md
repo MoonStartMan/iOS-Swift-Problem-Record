@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 15 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 41 | / |
+| | UIKit | 42 | / |
 | | 项目中的记录 | 36 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 110 |
+| 合计 | / | / | 111 |
 
 ### Swift知识点
 
@@ -114,6 +114,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [计算UILabel的行数](UIKit/UILabel/计算UILabel的行数.md)<br />
 
 [UILabel-sizeToFit和sizeThatFits的使用区别](UIKit/UILabel/UILabel-sizeToFit和sizeThatFits的使用区别.md)<br />
+
+[iOS-UILabel简单方式实现字体投影和颜色渐变](UIKit/UILabel/iOS-UILabel简单方式实现字体投影和颜色渐变.md)<br />
 
 ### UITableView
 
