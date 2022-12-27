@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 15 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 42 | / |
-| | 项目中的记录 | 36 | / |
+| | 项目中的记录 | 37 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 111 |
+| 合计 | / | / | 112 |
 
 ### Swift知识点
 
@@ -294,6 +294,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### swift-Double向上取整和向下取整、Double转IntString
 
 [swift-Double向上取整和向下取整、Double转IntString](项目中的记录/swift-Double向上取整和向下取整、Double转IntString.md)<br />
+
+### iOS-请求麦克风、相册权限、相机权限
+
+[iOS-请求麦克风、相册权限、相机权限](项目中的记录/iOS-请求麦克风、相册权限、相机权限/iOS-请求麦克风、相册权限、相机权限.md)<br />
 
 ## Xcode 报错
 
