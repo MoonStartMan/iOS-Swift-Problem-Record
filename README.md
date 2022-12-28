@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 15 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 42 | / |
+| | UIKit | 43 | / |
 | | 项目中的记录 | 37 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 112 |
+| 合计 | / | / | 113 |
 
 ### Swift知识点
 
@@ -51,6 +51,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [CocoaPods方式使用SnapKit](Cocopods/CocoaPods方式使用SnapKit.md)<br />
 
 ## UIKit
+
+## translatesAutoresizingMaskIntoConstrints.md
+
+[translatesAutoresizingMaskIntoConstrints](UIKit/AutoLayout/translatesAutoresizingMaskIntoConstrints.md)<br />
 
 ## iOS生命周期
 
