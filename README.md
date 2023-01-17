@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 15 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 43 | / |
-| | 项目中的记录 | 37 | / |
+| | 项目中的记录 | 38 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 113 |
+| 合计 | / | / | 114 |
 
 ### Swift知识点
 
@@ -302,6 +302,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### iOS-请求麦克风、相册权限、相机权限
 
 [iOS-请求麦克风、相册权限、相机权限](项目中的记录/iOS-请求麦克风、相册权限、相机权限/iOS-请求麦克风、相册权限、相机权限.md)<br />
+
+### iOS-低电量检测
+
+[iOS-低电量检测](项目中的记录/iOS-低电量检测.md)<br />
 
 ## Xcode 报错
 
