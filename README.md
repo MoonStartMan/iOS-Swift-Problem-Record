@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 15 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 44 | / |
-| | 项目中的记录 | 39 | / |
+| | 项目中的记录 | 40 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 115 |
+| 合计 | / | / | 116 |
 
 ### Swift知识点
 
@@ -311,9 +311,13 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 [iOS-低电量检测](项目中的记录/iOS-低电量检测.md)<br />
 
-### iOS-字典转JSON字符串.md
+### iOS-字典转JSON字符串
 
 [iOS-字典转JSON字符串](项目中的记录/iOS-字典转JSON字符串.md)<br />
+
+### swift-读取plist文件
+
+[swift-读取plist文件](项目中的记录/swift-读取plist文件.md)<br />
 
 ## Xcode 报错
 
