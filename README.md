@@ -6,13 +6,13 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 | / | 问题类型 | 问题个数 | 合计 |
 | ---- | ------ | ------ | ------ |
-| | Swift知识点 | 16 | / |
+| | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 44 | / |
 | | 项目中的记录 | 42 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 119 |
+| 合计 | / | / | 120 |
 
 ### Swift知识点
 
@@ -47,6 +47,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [swift数组遍历forEach、enumerated、iterator、indices](Swift知识点/swift数组遍历forEach、enumerated、iterator、indices.md)<br />
 
 [swift-propertyWrapper(属性包装)](Swift知识点/swift-propertyWrapper(属性包装).md)<br />
+
+[swift中的Encodable和Decodable](Swift知识点/swift中的Encodable和Decodable.md)<br />
 
 ## Cocopods
 
