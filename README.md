@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 44 | / |
-| | 项目中的记录 | 42 | / |
+| | 项目中的记录 | 43 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 120 |
+| 合计 | / | / | 121 |
 
 ### Swift知识点
 
@@ -330,6 +330,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### swift-Subscript下标的使用
 
 [swift-Subscript下标的使用](项目中的记录/swift-Subscript下标的使用.md)<br />
+
+### swift5使用URLSession完成get和post请求
+
+[swift5使用URLSession完成get和post请求](项目中的记录/swift5使用URLSession完成get和post请求.md)<br />
 
 ## Xcode 报错
 
