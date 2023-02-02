@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 44 | / |
-| | 项目中的记录 | 45 | / |
+| | 项目中的记录 | 46 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 123 |
+| 合计 | / | / | 124 |
 
 ### Swift知识点
 
@@ -338,6 +338,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [iOS-离散手势和连续手势](项目中的记录/iOS-离散手势和连续手势.md)<br />
 
 [iOS-数据存储-沙盒本地存储](项目中的记录/iOS-数据存储-沙盒本地存储.md)<br />
+
+[swift中Data、String、[UInt8]的相互转换](项目中的记录/swift中Data、String、[UInt8]的相互转换.md)<br />
 
 ## Xcode 报错
 
