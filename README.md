@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 44 | / |
-| | 项目中的记录 | 43 | / |
+| | 项目中的记录 | 44 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 121 |
+| 合计 | / | / | 122 |
 
 ### Swift知识点
 
@@ -334,6 +334,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### swift5使用URLSession完成get和post请求
 
 [swift5使用URLSession完成get和post请求](项目中的记录/swift5使用URLSession完成get和post请求.md)<br />
+
+[iOS-离散手势和连续手势](项目中的记录/iOS-离散手势和连续手势.md)<br />
 
 ## Xcode 报错
 
