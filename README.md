@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 44 | / |
-| | 项目中的记录 | 46 | / |
+| | 项目中的记录 | 47 | / |
 | | Xocde报错| 1 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 124 |
+| 合计 | / | / | 125 |
 
 ### Swift知识点
 
@@ -340,6 +340,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [iOS-数据存储-沙盒本地存储](项目中的记录/iOS-数据存储-沙盒本地存储.md)<br />
 
 [swift中Data、String、[UInt8]的相互转换](项目中的记录/swift中Data、String、[UInt8]的相互转换.md)<br />
+
+[ios-WKWebView无法释放问题解决](项目中的记录/ios-WKWebView无法释放问题解决.md)<br />
 
 ## Xcode 报错
 
