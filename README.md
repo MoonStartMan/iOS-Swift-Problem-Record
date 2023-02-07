@@ -10,9 +10,9 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Cocopods | 1 | / |
 | | UIKit | 46 | / |
 | | 项目中的记录 | 48 | / |
-| | Xocde报错| 1 | / |
+| | Xocde报错| 2 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 128 |
+| 合计 | / | / | 129 |
 
 ### Swift知识点
 
@@ -356,6 +356,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### framework not found Pods_XXX
 
 [framework not found Pods_XXX](Xcode报错/framework not found Pods_XXX.md)<br />
+
+[ATS policy have been changed](Xcode报错/ATS policy have been changed.md)<br />
 
 ## SwiftUI
 
