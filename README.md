@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 46 | / |
-| | 项目中的记录 | 48 | / |
+| | 项目中的记录 | 49 | / |
 | | Xocde报错| 2 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 129 |
+| 合计 | / | / | 130 |
 
 ### Swift知识点
 
@@ -350,6 +350,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [ios-WKWebView无法释放问题解决](项目中的记录/ios-WKWebView无法释放问题解决.md)<br />
 
 [UIText设置returnKeyType为Done仍然换行的解决办法](项目中的记录/UIText设置returnKeyType为Done仍然换行的解决办法.md)<br />
+
+[Swift5-创建文件并存储到Documents](项目中的记录/Swift5-创建文件并存储到Documents.md)<br />
 
 ## Xcode 报错
 
