@@ -16,8 +16,8 @@ class WXFileManager: NSObject {
         let file = url.appending(path: fileName)
         let exist = fileManager.fileExists(atPath: file.path())
         if !exist {
-            let data = Data(base64Encoded: "aGVsbG8gd29ybGQ=", options: .ignoreUnknownCharacters)
-            let createSuccess = fileManager.createFile(atPath: file.path(), contents: data, attributes: nil)
+          //	如果需要内容则contents里面传入内容
+            let createSuccess = fileManager.createFile(atPath: file.path(), contents: nil, attributes: nil)
             print("文件创建结果: \(createSuccess)")
         }
     }
