@@ -358,6 +358,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 [Swift5-创建文件并存储到Documents](项目中的记录/Swift5-创建文件并存储到Documents.md)<br />
 
+[swift-图片转换](项目中的记录/swift-图片转换.md)<br />
+
 ## Xcode 报错
 
 ### framework not found Pods_XXX
