@@ -11,6 +11,18 @@ collectionView.addGestureRecognizer(longPress)
 
 ## 实现拖拽方法
 
+### 允许拖动
+
+``` swift
+
+func collectionView(_ collectionView: UICollectionView, canMoveItemAt indexPath: IndexPath) -> Bool {
+	return true
+}
+
+```
+
+### 拖拽交换方法
+
 ``` swift
 
 @objc func longPressMoving(longPress: UILongPressGestureRecognizer) {
