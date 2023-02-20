@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 48 | / |
+| | UIKit | 49 | / |
 | | 项目中的记录 | 49 | / |
 | | Xocde报错| 2 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 132 |
+| 合计 | / | / | 133 |
 
 ### Swift知识点
 
@@ -94,6 +94,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [UICollectionView没有到达底部安全区的问题](UIKit/UICollectionView/UICollectionView没有到达底部安全区的问题.md)<br />
 
 [UICollectionViewCell高度适配](UIKit/UICollectionView/UICollectionViewCell高度适配.md)<br />
+
+[UICollectionVIew-拖拽实现UICollecitonViewCell移动](UIKit/UICollectionView/UICollectionVIew-拖拽实现UICollecitonViewCell移动.md)<br />
 
 ### 手势
 
