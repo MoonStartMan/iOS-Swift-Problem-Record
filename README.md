@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 52 | / |
+| | UIKit | 53 | / |
 | | 项目中的记录 | 49 | / |
 | | Xocde报错| 2 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 136 |
+| 合计 | / | / | 137 |
 
 ### Swift知识点
 
@@ -201,6 +201,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ### UIViewAnimation
 
 [UIViewAnimationWithBlock动画](UIKit/UIViewAnimation/UIViewAnimationWithBlock动画.md)<br />
+
+### CoreAnimation
+
+[iOS-CAReplicatorLayer](UIKit/CoreAnimation/iOS-CAReplicatorLayer.md)<br />
 
 ## 项目中的记录
 
