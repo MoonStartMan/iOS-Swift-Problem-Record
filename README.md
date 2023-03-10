@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 54 | / |
-| | 项目中的记录 | 49 | / |
+| | 项目中的记录 | 50 | / |
 | | Xocde报错| 2 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 138 |
+| 合计 | / | / | 139 |
 
 ### Swift知识点
 
@@ -378,6 +378,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [Swift5-创建文件并存储到Documents](项目中的记录/Swift5-创建文件并存储到Documents.md)<br />
 
 [swift-图片转换](项目中的记录/swift-图片转换.md)<br />
+
+[iOS-监听截屏和录屏](项目中的记录/iOS-监听截屏和录屏.md)<br />
 
 ## Xcode 报错
 
