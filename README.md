@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 54 | / |
-| | 项目中的记录 | 51 | / |
+| | 项目中的记录 | 52 | / |
 | | Xocde报错| 2 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 139 |
+| 合计 | / | / | 140 |
 
 ### Swift知识点
 
@@ -382,6 +382,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [iOS-监听截屏和录屏](项目中的记录/iOS-监听截屏和录屏.md)<br />
 
 [swift-获取当前网络状态](项目中的记录/swift-获取当前网络状态.md)<br />
+
+[swift开启多点触摸](项目中的记录/swift开启多点触摸.md)<br />
 
 ## Xcode 报错
 
