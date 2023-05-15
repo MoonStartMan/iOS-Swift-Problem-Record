@@ -8,7 +8,7 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 54 | / |
+| | UIKit | 55 | / |
 | | 项目中的记录 | 52 | / |
 | | Xocde报错| 2 | / |
 | | SwiftUI | 16 | / |
@@ -55,6 +55,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [CocoaPods方式使用SnapKit](Cocopods/CocoaPods方式使用SnapKit.md)<br />
 
 ## UIKit
+
+## UIAlertViewController
+
+[UIAlertViewController的使用](UIKit/UIAlertViewController/UIAlertViewController的使用.md)<br />
 
 ## translatesAutoresizingMaskIntoConstrints.md
 
