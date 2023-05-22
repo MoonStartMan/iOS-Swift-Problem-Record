@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 56 | / |
-| | 项目中的记录 | 53 | / |
+| | 项目中的记录 | 54 | / |
 | | Xocde报错| 2 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 142 |
+| 合计 | / | / | 143 |
 
 ### Swift知识点
 
@@ -216,158 +216,83 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 
 ## 项目中的记录
 
-### 类型转换
-
 [swift-string,Int,Double相互转换](项目中的记录/类型转换/swift-string,Int,Double相互转换.md)<br />
-
-### 键盘操作
 
 [swift关闭键盘的两种方式](项目中的记录/键盘操作/swift关闭键盘的两种方式.md)<br />
 
-### swift-键盘相关操作
-
 [swift-键盘相关操作](项目中的记录/键盘操作/swift-键盘相关操作.md)<br />
-
-### 字符串操作
 
 [swift插入或者删除字符串](项目中的记录/字符换操作/swift插入或者删除字符串.md)<br />
 
-### 控制器传值
-
 [Swift视图控制器传值(正向和反向)](项目中的记录/控制器传值/Swift视图控制器传值(正向和反向).md)<br />
 
-### 坐标转换
 [swift-convert方法](项目中的记录/坐标转换/swift-convert方法.md)<br />
 
-### swift-判断客户端是否安装QQ并发起会话
 [swift-判断客户端是否安装QQ并发起会话](项目中的记录/swift-判断客户端是否安装QQ并发起会话.md)<br />
-
-### Swift-NSObject取消执行延时方法
 
 [Swift-NSObject取消执行延时方法](项目中的记录/Swift-NSObject取消执行延时方法.md)<br />
 
-### Dispatch
-
 [DispatchQueue.main.async](项目中的记录/Dispatch/DispatchQueue.main.async.md)<br />
-
-### 内存管理
 
 [swift内存管理-weak与unowned](项目中的记录/内存管理/swift内存管理-weak与unowned.md)<br />
 
-### swift语法
-
 [swift基本语法if let和guard let](项目中的记录/swift语法/swift基本语法if let和guard let.md)<br />
-
-### 网络封装
 
 [swift通过Alamofire进行网络请求封装](项目中的记录/网络封装/swift通过Alamofire进行网络请求封装.md)<br />
 
-### iOS解决点击穿透问题
-
 [iOS解决点击穿透问题](项目中的记录/iOS解决点击穿透问题/iOS解决点击穿透问题.md)<br />
-
-### 单例
 
 [Swift-单例的三种写法](项目中的记录/单例/Swift-单例的三种写法.md)<br />
 
-### OC和Swift混编
-
 [设置桥接文件](项目中的记录/OC和Swift混编/设置桥接文件/OC和swift混编.md)<br />
-
-### Swift-从应用中跳转到AppStore页面并打分
 
 [Swift-从应用中跳转到AppStore页面并打分](项目中的记录/Swift-从应用中跳转到AppStore页面并打分.md)<br />
 
-### swift-调起邮件发送
-
 [swift-调起邮件发送](项目中的记录/swift-调起邮件发送.md)<br />
-
-### Swift闪光灯的使用
 
 [Swift闪光灯的使用](项目中的记录/Swift闪光灯的使用.md)<br />
 
-### 通过URL地址打开web页面
-
 [通过URL地址打开web页面](项目中的记录/通过URL地址打开web页面.md)<br />
-
-### swift获取app、ios版本号及设备信息
 
 [swift获取app、ios版本号及设备信息](项目中的记录/swift获取app、ios版本号及设备信息.md)<br />
 
-### 字符串
-
 [swift-将字符串拆分成数组(把一个字符串分割成字符串数组)](项目中的记录/字符串/swift-将字符串拆分成数组(把一个字符串分割成字符串数组).md)<br />
-[Swift字符串截取](项目中的记录/字符串/Swift字符串截取.md)<br />
 
-### 加载gif
+[Swift字符串截取](项目中的记录/字符串/Swift字符串截取.md)<br />
 
 [swift使用KingfisherSDWebImage加载本地GIF](项目中的记录/加载gif/swift使用KingfisherSDWebImage加载本地GIF.md) <br />
 
-### swift开发之振动反馈
-
 [swift开发之振动反馈](项目中的记录/swift开发之振动反馈.md)<br />
-
-### 截取屏幕
 
 [swift-截取当前屏幕的图片](项目中的记录/swift-截取当前屏幕的图片.md)<br />
 
-### 进制转换
-
 [swift进制转换](项目中的记录/swift进制转换.md)<br />
-
-### swift-BlurView设置高斯模糊(毛玻璃)
 
 [swift-BlurView设置高斯模糊(毛玻璃)](项目中的记录/swift-BlurView设置高斯模糊(毛玻璃).md)<br />
 
-### swift分割字符串
-
 [swift分割字符串](项目中的记录/swift分割字符串.md)<br />
-
-### swift-UIScrollView整页滚动获取当前索引
 
 [swift-UIScrollView整页滚动获取当前索引](项目中的记录/swift-UIScrollView整页滚动获取当前索引.md)<br />
 
-### swift-获取当年的第几周
-
 [swift-获取当年的第几周](项目中的记录/swift-获取当年的第几周.md)<br />
-
-### iOS通过总秒数算出具体的天-分-时-秒
 
 [iOS通过总秒数算出具体的天-分-时-秒](项目中的记录/iOS通过总秒数算出具体的天-分-时-秒.md)<br />
 
-### iOS的UI事件传递&响应
-
 [iOS的UI事件传递&响应](项目中的记录/iOS的UI事件传递&响应.md)<br />
-
-### swift-Double向上取整和向下取整、Double转IntString
 
 [swift-Double向上取整和向下取整、Double转IntString](项目中的记录/swift-Double向上取整和向下取整、Double转IntString.md)<br />
 
-### iOS-请求麦克风、相册权限、相机权限
-
 [iOS-请求麦克风、相册权限、相机权限](项目中的记录/iOS-请求麦克风、相册权限、相机权限/iOS-请求麦克风、相册权限、相机权限.md)<br />
-
-### iOS-低电量检测
 
 [iOS-低电量检测](项目中的记录/iOS-低电量检测.md)<br />
 
-### iOS-字典转JSON字符串
-
 [iOS-字典转JSON字符串](项目中的记录/iOS-字典转JSON字符串.md)<br />
-
-### swift-读取plist文件
 
 [swift-读取plist文件](项目中的记录/swift-读取plist文件.md)<br />
 
-### swift-真机操作plist文件
-
 [swift-真机操作plist文件](项目中的记录/swift-真机操作plist文件.md)<br />
 
-### swift-Subscript下标的使用
-
 [swift-Subscript下标的使用](项目中的记录/swift-Subscript下标的使用.md)<br />
-
-### swift5使用URLSession完成get和post请求
 
 [swift5使用URLSession完成get和post请求](项目中的记录/swift5使用URLSession完成get和post请求.md)<br />
 
@@ -392,6 +317,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [swift开启多点触摸](项目中的记录/swift开启多点触摸.md)<br />
 
 [swift获取通讯录联系人信息](项目中的记录/swift获取通讯录联系人信息.md)<br />
+
+[swift-系统StoreKit应用内跳转APP Store和评分](项目中的记录/swift-系统StoreKit应用内跳转APP Store和评分.md)<br />
 
 ## Xcode 报错
 
