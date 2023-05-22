@@ -8,11 +8,11 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | ---- | ------ | ------ | ------ |
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
-| | UIKit | 55 | / |
-| | 项目中的记录 | 52 | / |
+| | UIKit | 56 | / |
+| | 项目中的记录 | 53 | / |
 | | Xocde报错| 2 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 140 |
+| 合计 | / | / | 142 |
 
 ### Swift知识点
 
@@ -59,6 +59,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 ## UIAlertViewController
 
 [UIAlertViewController的使用](UIKit/UIAlertViewController/UIAlertViewController的使用.md)<br />
+
+[UIAlertViewController设置标题、内容的字体和颜色](UIKit/UIAlertViewController/UIAlertViewController设置标题、内容的字体和颜色.md)<br />
 
 ## translatesAutoresizingMaskIntoConstrints.md
 
@@ -388,6 +390,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [swift-获取当前网络状态](项目中的记录/swift-获取当前网络状态.md)<br />
 
 [swift开启多点触摸](项目中的记录/swift开启多点触摸.md)<br />
+
+[swift获取通讯录联系人信息](项目中的记录/swift获取通讯录联系人信息.md)<br />
 
 ## Xcode 报错
 
