@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 17 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 56 | / |
-| | 项目中的记录 | 54 | / |
-| | Xocde报错| 2 | / |
+| | 项目中的记录 | 55 | / |
+| | Xcode报错| 2 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 143 |
+| 合计 | / | / | 144 |
 
 ### Swift知识点
 
@@ -319,6 +319,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [swift获取通讯录联系人信息](项目中的记录/swift获取通讯录联系人信息.md)<br />
 
 [swift-系统StoreKit应用内跳转APP Store和评分](项目中的记录/swift-系统StoreKit应用内跳转APP Store和评分.md)<br />
+
+[Swift-获取手机系统当前使用的语言和地区](项目中的记录/Swift-获取手机系统当前使用的语言和地区.md)<br />
 
 ## Xcode 报错
 
