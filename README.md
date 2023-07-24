@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 18 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 57 | / |
-| | 项目中的记录 | 56 | / |
+| | 项目中的记录 | 57 | / |
 | | Xcode报错| 2 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 147 |
+| 合计 | / | / | 148 |
 
 ### Swift知识点
 
@@ -329,6 +329,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [Swift-获取手机系统当前使用的语言和地区](项目中的记录/Swift-获取手机系统当前使用的语言和地区.md)<br />
 
 [iOS-录屏、截屏判断](项目中的记录/iOS-录屏、截屏判断.md)<br />
+
+[SOLID(单一原则)](项目中的记录/SOLID.md)<br />
 
 ## Xcode 报错
 
