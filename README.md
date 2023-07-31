@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 18 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 57 | / |
-| | 项目中的记录 | 58 | / |
+| | 项目中的记录 | 59 | / |
 | | Xcode报错| 2 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 149 |
+| 合计 | / | / | 150 |
 
 ### Swift知识点
 
@@ -333,6 +333,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [SOLID(单一原则)](项目中的记录/SOLID.md)<br />
 
 [DispatchSeamphore](项目中的记录/DispatchSeamphore.md)<br />
+
+[iOS-节流与防抖](项目中的记录/iOS-节流与防抖.md)<br />
 
 ## Xcode 报错
 
