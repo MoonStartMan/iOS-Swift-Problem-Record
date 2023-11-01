@@ -9,10 +9,10 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 | | Swift知识点 | 18 | / |
 | | Cocopods | 1 | / |
 | | UIKit | 57 | / |
-| | 项目中的记录 | 60 | / |
+| | 项目中的记录 | 61 | / |
 | | Xcode报错| 2 | / |
 | | SwiftUI | 16 | / |
-| 合计 | / | / | 151 |
+| 合计 | / | / | 152 |
 
 ### Swift知识点
 
@@ -337,6 +337,8 @@ This is a repository of records about problems encountered in iOS(Swift) develop
 [iOS-节流与防抖](项目中的记录/iOS-节流与防抖.md)<br />
 
 [原型模式-Prototype-Pattern](项目中的记录/原型模式-Prototype-Pattern.md)<br />
+
+[Kingfisher-简易了解.md](项目中的记录/Kingfisher-简易了解.md)<br />
 
 ## Xcode 报错
 
